@@ -11,6 +11,14 @@ html{
 }
 
 body{
+    height: 100vh;
+    background-image: linear-gradient(to left,black,black);
+}
+.panel{
     background-image: linear-gradient(to bottom,rgb(31, 153, 116),rgb(22, 22, 207));
     height: 100vh;
+    border: 5px solid gray;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
 }
