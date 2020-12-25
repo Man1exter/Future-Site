@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: linear-gradient(to bottom,rgb(31, 153, 116),rgb(22, 22, 207));
+    height: 100vh;
+}
