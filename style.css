@@ -78,6 +78,14 @@ body{
     justify-content: center;
     align-items: center;
 }
+
 .fas{
     font-size: 11rem;
+}
+.active{
+    text-decoration: none;
+    transition: .3s linear;
+}
+.active:hover{
+    color: red;
 }
