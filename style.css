@@ -94,3 +94,14 @@ body{
 .active:hover{
     color: red;
 }
+.box-set{
+    background-image: linear-gradient(180deg,rgb(85, 81, 109)0%,rgb(31, 39, 8)100%);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.letus{
+    font-size: 3rem;
+}
