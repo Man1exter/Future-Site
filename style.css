@@ -31,7 +31,7 @@ body{
     justify-content: center;
     background-color: #3272d1;
     overflow: hidden;
-    border-left: 1px solid gray;
+    border-left: 4px solid gray;
 }
 .textinner{
     display: flex;
