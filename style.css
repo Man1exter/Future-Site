@@ -81,6 +81,11 @@ body{
 
 .fas{
     font-size: 11rem;
+    color: white;
+    transition: .3s linear;
+}
+.fas:hover{
+    color: red;
 }
 .active{
     text-decoration: none;
