@@ -101,6 +101,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: 2px solid black;
 }
 .letus{
     font-size: 3rem;
