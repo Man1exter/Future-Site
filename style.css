@@ -141,6 +141,8 @@ body{
 .fa-male{
     font-size: 200px;
     margin: 40px;
+    cursor: pointer;
+    color: rgb(188, 247, 255);
 }
 .statistic{
     font-size: 50px;
@@ -152,4 +154,23 @@ body{
 .fa-female:hover,
 .fa-male:hover{
     color: rgb(255, 251, 0);
+    font-size: 250px;
+}
+.chart-up{
+    border-top: 5px solid green;
+    height: 530px;
+    text-align: center;
+}
+.fa-chart-line{
+    color: yellow;
+    font-size: 250px;
+    cursor: pointer;
+}
+.zarobek{
+    line-height: 150px;
+    font-size: 60px;
+    color: black;
+}
+.zarobek-suma{
+    font-size: 50px;
 }
