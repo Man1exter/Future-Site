@@ -116,3 +116,6 @@ body{
     border-radius: 10px;
     overflow: hidden;
 }
+.sex{
+border: 2px solid blue;
+}
