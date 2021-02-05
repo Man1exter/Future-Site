@@ -15,7 +15,7 @@ body{
     background-image: linear-gradient(to left,black,black);
 }
 .panel{
-    background-image: linear-gradient(to bottom,rgb(31, 153, 116),rgb(22, 22, 207));
+    background-image: linear-gradient(to bottom,rgb(29, 124, 96),rgb(10, 10, 192));
     height: 100vh;
     border: 5px solid gray;
     border-radius: 20px;
@@ -111,13 +111,45 @@ body{
     border-radius: 10px;
 }
 .database{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     border: 2px solid black;
     border-radius: 10px;
     overflow: hidden;
     width: 95%;
-    margin-left: 2.5%;
+    margin-left: 2.75%;
 }
-.sex{
-border: 2px solid blue;
+.absolute{
+    position: absolute;
+    width: 400px;
+    height: 98.9%;
+    background-image: linear-gradient(to top,blue,rgb(19, 228, 106));
+    top: 50%;
+    left: 71.7%;
+    transform: translate(-50%,-50%);
+}
+
+.column-work{
+    font-size: 4rem;
+    text-align: center;
+    background-image: linear-gradient(to top,rgb(22, 177, 81),rgb(87, 199, 22));
+}
+.kontener{
+    text-align: center;
+    margin-top: 20px;
+}
+.fa-female,
+.fa-male{
+    font-size: 200px;
+    margin: 40px;
+}
+.statistic{
+    font-size: 50px;
+}
+.statistic-sex{
+    font-size: 40px;
+}
+
+.fa-female:hover,
+.fa-male:hover{
+    color: rgb(255, 251, 0);
 }
