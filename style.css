@@ -115,6 +115,8 @@ body{
     border: 2px solid black;
     border-radius: 10px;
     overflow: hidden;
+    width: 95%;
+    margin-left: 2.5%;
 }
 .sex{
 border: 2px solid blue;
